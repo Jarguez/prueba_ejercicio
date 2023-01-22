@@ -5,7 +5,7 @@
           Datos del empleado
      </div>
      <div class="card-body">
-     <form action="" method="post" enctype="multipart/form-data"> <!--permite mas de 2 archivos -->
+     <form action="" method="post" enctype="multipart/form-data"> <!--permite mas de 2 archivos adjuntos-->
 
      <div class="mb-3">
        <label for="" class="form-label">Primer nombre</label>

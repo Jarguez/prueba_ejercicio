@@ -10,7 +10,9 @@
                <div class="mb-3">
                  <label for="usuario" class="form-label">Nombre del usuario:</label>
                  <input type="text"
-                   class="form-control" name="lusuario" id="usuario" aria-describedby="helpId" placeholder="usuario">
+                   class="form-control" name="nombredelusuario" id="nombredelusuario" aria-describedby="helpId" placeholder="usuario">
+    </div>
+
 
                     <div class="mb-3">
                       <label for="password" class="form-label">Password</label>
@@ -22,6 +24,8 @@
                     <input type="email"
                     class="form-control" name="correo" id="correo" aria-describedby="helpId" placeholder="Escriba su correo:">
                     </div>
+
+                    
                                         <button type="submit" class="btn btn-success">Agregar</button> 
                                         <a name="" id="" class="btn btn-primary" href="index.php" role="button">Cancelar</a>
 </form>
