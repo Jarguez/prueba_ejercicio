@@ -2,10 +2,10 @@
 <br>
 <div class="card">
      <div class="card-header">
-          Datos empleados
+          Datos del empleado
      </div>
      <div class="card-body">
-     <form action="" method="post" enctype="multipart/form-data">
+     <form action="" method="post" enctype="multipart/form-data"> <!--permite mas de 2 archivos -->
 
      <div class="mb-3">
        <label for="" class="form-label">Primer nombre</label>
